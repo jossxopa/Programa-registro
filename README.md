@@ -3,4 +3,5 @@
 - Estado del proyecto: En construcción.
 
 - Para ejecutar el problema debes poner:
+
 ```npm install react```
